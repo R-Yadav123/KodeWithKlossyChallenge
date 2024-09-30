@@ -1,2 +1,5 @@
 # KodeWithKlossyChallenge
 Kode with Klossy and Estée Lauder Virtual Challenge, a user-friendly and mobile-friendly website application.
+My website is mobile and user-friendly, includes a carousel of image collectives with descriptions, animations, hover effects, buttons for users to shop the three essential items, an information page that describes the three items, and a machine learning model. The machine learning model is an image classifier. The training dataset was retrieved from Kaggle. I utilized 2K+ samples of data. The purpose of the image classifier is to allow users to identify which of the three items would best fit their skin, depending on oily, non-oily, and regular skin. Furthermore, the navigation bar of the website is mobile-friendly as it includes a collapsable navigation bar when the screen size alters. In my website, I utilized a bootstrapped front-end framework for the development of my website.
+
+Here is a deployed link where the front-facing website application can be viewed: https://esteelauderchallenge.replit.app/
